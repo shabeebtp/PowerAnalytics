@@ -1,2 +1,0 @@
-# PowerAnalytics
-Hello 
